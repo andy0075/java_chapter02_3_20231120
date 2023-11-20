@@ -18,7 +18,7 @@ public class Test02 {
 		
 		int i1 = 1234;
 		
-		String str3 =String.valueOf(i1); // 정수 또는 실수를 문자열로 변환!
+		String str3 =String.valueOf(i1); // 정수 또는 실수를 문자열로 변환!!!
 
 		
 	}
