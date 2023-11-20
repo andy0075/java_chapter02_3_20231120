@@ -11,7 +11,7 @@ public class Test02 {
 				
 		int s1 = Integer.parseInt(str1); // 문자열을 정수로 변환!!!
 		
-		double d1 = Double.parseDouble(str2); //문자열을 실수로 변환!!!
+		double d1 = Double.parseDouble(str2); //문자열을 실수로 변환!
 		
 		System.out.println(s1);
 		System.out.println(d1);
